@@ -69,3 +69,5 @@ Multi-language support: Ensure accessibility for patients speaking different lan
 Caregiver access: Allow caregivers to manage or view the health data of patients with consent.
 
 https://www.figma.com/proto/RFsrWqAiUzwZW2IRmzCG4T/Healthcare-App-with-Blush-Illustrations-(Community)?page-id=6%3A0&node-id=83-1328&node-type=frame&viewport=537%2C145%2C0.15&t=wS2xmsCh0XXnnOXW-1&scaling=scale-down&content-scaling=fixed
+
+https://www.youtube.com/watch?v=8hsFpQEuAMU&ab_channel=SinesiphoMbusi
