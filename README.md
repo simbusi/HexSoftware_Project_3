@@ -1,5 +1,6 @@
 # HexSoftware_Project_3
 Health Care App for Hemophilia
+
 HemoCare allows smooth communication between patients and healthcare providers, tracks health metrics, and offers timely medical advice.
 This design ensures a holistic approach to managing hemophilia, emphasizing communication, real-time tracking, and personalized advice, 
 while ensuring the security and privacy of sensitive health information.
